@@ -1,1 +1,20 @@
-/target/
+target/
+.classpath
+.project
+
+*ReadMe.md.html
+
+# Log file
+*.log
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
