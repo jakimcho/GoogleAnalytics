@@ -2,6 +2,8 @@
 
 ## API
 
+[tool for checking request](https://ga-dev-tools.appspot.com/query-explorer/)
+
 The API version that is going to be use will be [Google Analytics Reporting API v4 API](https://developers.google.com/analytics/devguides/reporting/core/v4/).
 
 > The Google Analytics Reporting API v4 is the most advanced programmatic method to access report data in Google Analytics. With the Google Analytics Reporting API, you can:
